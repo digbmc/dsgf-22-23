@@ -14,8 +14,34 @@ Note-taker: Alice
 
 ### Introductions
 
+- Name, specialization, what you're hoping to get out of the program
+- Mallory, she/her, Classics
+  - Working on 3D scanning and printing for Freeze! 
+  - Text analysis/Classical Languages Toolkit
+  - Interest in continuing material culture & spatial technologies, storymapping, etc
+  - Studying for prelims: greek pottery, roman satire, greek epic, general fields
+- Kari, she/her, Archaeology
+  - Working on thesis: greek colonies on north coas of the Black Sea
+  - Russophone world inaccessible, interest in GIS
+  - Applying Python to thesis research -> lots of languages, more efficient tool to find resources in archaeological datas
+- Alexis, she/her, History of Art
+  - Working on thesis -> tiles of the New World (Henry Mercer)
+  - Formerly an apparel designer -> some digital design experience
+  - Excited to help others make illustrations/graphics, diagrams, 
 
 ### Program overview & logistics
+
+- Expectations
+- Syllabus interests:
+  - Mallory
+    - Immersive/3D stuff
+    - Digital Exhibits
+    - Makerspace 
+  - Kari
+    - What we have the resources for? Technologies and tools available and how to access them.
+  - Alexis
+    - Leading workshops in Adobe Software for graduate students (photoshop & illustrator)
+    - Using html for fun and presentation -> instead of powerpoint
 
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?
@@ -41,7 +67,7 @@ What is Digital Scholarship? [slides](http://bit.ly/dsgf-2019)
 - [ ] Join the [slack channel](https://join.slack.com/t/ds-bmc/shared_invite/zt-1gkcbl0i9-Gvv9tTUTkeQ65LvrzwBJOQ) for our group
 - [ ] Install software
   - [ ] Text editor: [Visual Studio Code](https://code.visualstudio.com/download)
-  - [ ] If you have a mac: install [xcode developer tools](https://developer.apple.com/xcode/resources/)
+  - [ ] For a PC: install git bash [using these instructions](https://gitforwindows.org/)
 
 <!-- [Next >>>]() -->
 
