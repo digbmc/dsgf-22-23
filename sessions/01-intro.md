@@ -16,7 +16,6 @@ Note-taker: Alice
 
 
 ### Program overview & logistics
--
 
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?
@@ -24,7 +23,7 @@ Note-taker: Alice
 - Measurable: what can you do to measure your progress?
 - Actionable: break it down into individual tasks and pieces that you are able to accomplish on your own
 - Relevant: make sure it's important enough to motivate you
-- [ ] Time-based: set reasonable deadlines
+- Time-based: set reasonable deadlines
 
 Final notes/reminders
 
