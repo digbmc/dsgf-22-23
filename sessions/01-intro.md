@@ -1,0 +1,64 @@
+# 01. Introduction to Digital Scholarship
+
+September 30, 2022
+
+## Agenda
+1. Introductions
+2. Program overview & logistics
+3. Goals and learning plans
+4. What is Digital Scholarship?
+
+## Meeting notes
+
+Note-taker: Alice
+
+### Introductions
+
+
+
+### Program overview & logistics
+- Computers
+  - Tie - Mac - 2014 (slow)
+  - Meriç - MacBook Pro, Big Sur
+  - Meg - MacBook Air, Big Sur 11.2.2 -> limited hard drive space
+  - Clare - Windows 10 HP Specter 360; capacity for running software 
+- Communication
+  - Slack channel for this group - 
+  - Github
+- Meeting times: 
+  - Typically Tuesday 10-12 AM* in person
+  - Text meeting: Tuesday 10/19 9-11 AM via Zoom 
+- Review [expectations](../expectations.md)
+- Review [syllabus](../syllabus.md)
+  - Particular interest in web development, AI, GIS, 3D/immersive
+- Note-taking & git repo tour (next time)
+
+### Learning plans & SMART goals
+- What do you want to know? What do you want to create or develop?
+- Specific: how will you work towards that goal?
+- Measurable: what can you do to measure your progress?
+- Actionable: break it down into individual tasks and pieces that you are able to accomplish on your own
+- Relevant: make sure it's important enough to motivate you
+- [ ] Time-based: set reasonable deadlines
+
+Final notes/reminders
+
+- [ ] Set up a meeting with Alice via [calendly](https://calendly.com/amcgrath1/) if you want help with learning plans & goals (out during fall break)
+- [ ] Alice will set up Slack, send Zoom invites to future meetings, etc.
+
+What is Digital Scholarship? [slides](http://bit.ly/dsgf-2019)
+
+
+## Action items
+- [ ] Brainstorm 3-4 goals and select the most relevant to draft a SMART goal
+- [ ] Watch all 6 [Code.org](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) videos on computers
+- [ ] Sign up for a [GitHub account](https://github.com/) & let me know
+- [ ] Email me a bio and headshot for the [DS website](https://digitalscholarship.blogs.brynmawr.edu/people/)
+- [ ] Join the [slack channel](https://join.slack.com/t/ds-bmc/shared_invite/zt-1gkcbl0i9-Gvv9tTUTkeQ65LvrzwBJOQ) for our group
+- [ ] Install software
+  - [ ] Text editor: [Visual Studio Code](https://code.visualstudio.com/download)
+  - [ ] If you have a mac: install [xcode developer tools](https://developer.apple.com/xcode/resources/)
+
+<!-- [Next >>>]() -->
+
+[Return to syllabus](../syllabus.md)
