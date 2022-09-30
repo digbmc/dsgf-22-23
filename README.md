@@ -12,24 +12,11 @@ This repository contains files and information for and by participants in the 20
 
 ### Session notes
 
-[Introduction](sessions/01-intro.md) - October 6, 2021
+[Introduction](sessions/01-intro.md) - September 30, 2022
 
-[Computational thinking](sessions/02-computation.md) - October 19, 2021
-
-[Web Development I](sessions/03-webdev.md) - November 2, 2021
-
-[Web Development II](sessions/04-webpub.md) - November 10, 2021
-
-[Web Deployment](sessions/05-deploy.md) - December 1, 2021
-
-[Web Design](sessions/06-design.md) - December 8, 2021
-
-[End-of-semester updates](sessions/07-review.md) - Dec 15, 2021
-
-[Spring semester planning](sessions/08-spring-planning.md) - Jan 19, 2022
-
-[Git & GitHub](sessions/09-git.md) - Feb 2, 2022
-
-[Data](sessions/10-data.md) - Feb 16, 2022
-
-[Mapping & GIS](sessions/11-map.md) - April 27, 2022
+9/30/22
+10/21/22
+11/4/22
+11/18/22
+12/2/22
+12/16/22

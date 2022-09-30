@@ -15,23 +15,8 @@ Note-taker: Alice
 ### Introductions
 
 
-
 ### Program overview & logistics
-- Computers
-  - Tie - Mac - 2014 (slow)
-  - Meriç - MacBook Pro, Big Sur
-  - Meg - MacBook Air, Big Sur 11.2.2 -> limited hard drive space
-  - Clare - Windows 10 HP Specter 360; capacity for running software 
-- Communication
-  - Slack channel for this group - 
-  - Github
-- Meeting times: 
-  - Typically Tuesday 10-12 AM* in person
-  - Text meeting: Tuesday 10/19 9-11 AM via Zoom 
-- Review [expectations](../expectations.md)
-- Review [syllabus](../syllabus.md)
-  - Particular interest in web development, AI, GIS, 3D/immersive
-- Note-taking & git repo tour (next time)
+-
 
 ### Learning plans & SMART goals
 - What do you want to know? What do you want to create or develop?

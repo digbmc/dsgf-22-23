@@ -2,7 +2,7 @@
 
 ## Fall 2022
 
-### cd 01. [Introductions](sessions/01-intro.md)
+### 01. [Introductions](sessions/01-intro.md)
 2022.09.30
 - Overview of DSGF program & expectations
 - What is Digital Scholarship?
