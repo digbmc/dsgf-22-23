@@ -12,11 +12,14 @@ This repository contains files and information for and by participants in the 20
 
 ### Session notes
 
-[Introduction](sessions/01-intro.md) - September 30, 2022
+- [Introduction](sessions/01-intro.md) - September 30, 2022
 
-9/30/22
-10/21/22
-11/4/22
-11/18/22
-12/2/22
-12/16/22
+- [Computational Thinking](sessions/02-computation.md) - October 21, 2022
+
+- 11/4/22
+
+- 11/18/22
+
+- 12/2/22
+
+- 12/16/22

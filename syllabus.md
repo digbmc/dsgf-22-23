@@ -8,12 +8,14 @@
 - What is Digital Scholarship?
 - SMART goals & learning plans
 
-### 02. [Computational thinking]
+Note-taker: Alice
+
+### 02. [Computational thinking](sessions/02-computation.md)
 2022.10.21
 - Computing basics
 - Command line workshop
 
-Note-taker:
+Note-taker: Alexis
 
 ### 03. [Markdown, Github, Git]
 2022.11.04
@@ -21,7 +23,7 @@ Note-taker:
 -  Markdown basics
 -  Versioning with git
 
-Note-taker:
+Note-taker: Kari
 
 ### 04. [Web development]
 2022.11.18
@@ -29,7 +31,7 @@ Note-taker:
 - HTML basics
 - CSS basics
 
-Note-taker:
+Note-taker: Mallory
 
 ### 05. [Web design & publishing]
 2021.12.02
@@ -42,7 +44,7 @@ Note-taker:
 - Data structures
 - Data cleaning with OpenRefine
 
-Note-taker:
+Note-taker: Alice
 
 
 ### Deadlines
