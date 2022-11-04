@@ -18,7 +18,7 @@ This repository contains files and information for and by participants in the 20
 
 - [Git, GitHub, and Markdown](sessions/03-git.md) - November 4, 2022
 
-- 11/18/22 Reschedule
+- 11/18/22 Reschedule maybe?
 
 - 12/2/22
 
