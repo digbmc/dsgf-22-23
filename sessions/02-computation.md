@@ -45,7 +45,7 @@ Note-taker: Alexis
 
 ---
 
-[<<< Previous](01-intro.md) | <!-- [Next >>>](03-webdev.md) -->
+[<<< Previous](01-intro.md) | [Next >>>](03-git.md)
 
 [Return to syllabus](../syllabus.md)
 

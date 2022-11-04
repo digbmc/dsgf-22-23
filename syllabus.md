@@ -17,7 +17,7 @@ Note-taker: Alice
 
 Note-taker: Alexis
 
-### 03. [Markdown, Github, Git]
+### 03. [Markdown, Github, Git](sessions/03-git.md)
 2022.11.04
 -  Data/text encoding 
 -  Markdown basics
