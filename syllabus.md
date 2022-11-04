@@ -39,6 +39,8 @@ Note-taker: Mallory
 - Responsive design frameworks
 - Web accessibility
 
+Note-taker: Alice
+
 ### 06. [Data management]
 2022.12.16
 - Data structures
