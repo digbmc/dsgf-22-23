@@ -9,7 +9,22 @@
 4. Begin Command Line tutorial
 
 ## Meeting notes
-Note-taker: Alexis
+Notes from Alexis:
+1. SMART goals
+    Mallory:
+StoryMap JS software (example on knightlab) and create an image map (there’s also Leaflet JS and ArcGIS StoryMap software, also Exhibit.so which is an digital exhibit software, also Scalar has image annotation capabilities)
+3D scanning and printing an item from collections
+    Kari:
+Python web-scraper than can convert search terms into a series of relevant terms in specific languages. First, create a translation tool, and then a web-scraping component, and then a data storage component to the program. Alice Recommends: Automate the Boring Stuff with Python by Al Sweigart. Also LinkedIn learning course (video tutorials) on Pything: Python for Non-Programmers, the course is called “become a Python developer) Also, Python for Digital Humanities (free course on learning Python, pythonhumanities.com) Also, freecodecamp.org—Kari will need to learn how to encode different characters other than Roman alphabet.
+    Alexis:
+Make an image map to be able to make pictures interactive. (JavaScript libraries?) Alice shows us a scalable vector graphics, SVG, at traces.brynmawr.edu. D3 Javascript library may have resources. 
+IIIF stands for international image interoperability Framework: also contains tools and activities to interact with images.
+Plant humanities lab—visual essays featuring annotated images
+Look into svg interactivity
+
+2. Discussion: How Computers Work
+How long will digital technology last? When file types become obsolete, what happens? How do institutions keep up?
+
 
 ### SMART Goals
 
