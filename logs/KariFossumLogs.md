@@ -31,21 +31,26 @@ To use Python to construct a web-scraping tool capable of (1) scraping selected 
 - By 12/16
 - By 12/23
 
-# **11/10 Log**
+## Log
 
-## **Accomplishments:**
+### **11/10 Log**
 
-## **Updates:**
+#### **Accomplishments:**
+
+#### **Updates:**
 
 - working on revising my SMART Goal! I am still trying to develop a clearer idea for how to use Python for archaeology, both in general terms and for my own specific research; this week, this looks like refreshing my Python skills using online tutorials and "researching" how other scholars have incorporated Python into their research in archaeology, classics, and art history
 - constructing a new SMART Goal, namely, to use StoryMaps and/or GIS to make an interactive map of the findspots of the objects in the dataset that I'm building for my thesis; I'm currently playing around with StoryMaps and reading about GIS and approaches to geospatial data 
 
-## Other Updates:
+#### Other Updates:
 
+---
 
-## ATM Comments
+#### ATM Comments
 
 - Maybe start by finding a couple of python tutorials that are relevant and working through them?
   - You might want to check out [this tutorial on python translation libraries](https://towardsdatascience.com/language-translation-using-python-bd8020772ccc) -- one thing to keep in mind is that some languages have better AI models than others (Romanian and Ukranian might be less robust).
   - Here's a python learning resource I like that has [a chapter on web scraping](https://automatetheboringstuff.com/2e/chapter12/)
 - Focus on one or two digital resources to start and see if they have APIs (Automated Programming Interfaces)
+
+---
