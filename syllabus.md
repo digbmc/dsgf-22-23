@@ -25,7 +25,7 @@ Note-taker: Alexis
 
 Note-taker: Kari
 
-### 04. [Web development]
+### 04. [Web development](sessions/04-webdev.md)
 2022.11.18 - potential date & time change
 - How the internet works
 - HTML basics
