@@ -25,8 +25,7 @@ Use Knightlab Storymaps to create a storymap for a Greek vase. Explore and compa
   7. Experiment with the same image I use for the Knightlab map on with exhibit.so and IIIF.   
 
 - **Relevant**: make sure it's important enough to motivate you 
-
-    - Creating storymaps like these would be a great way to examine, analyze, and explore manuscripts, vase paintings, and mind maps like the one I envisioned for the Freeze! exhibition.
+  - Creating storymaps like these would be a great way to examine, analyze, and explore manuscripts, vase paintings, and mind maps like the one I envisioned for the Freeze! exhibition.
 
   - It’s a good way to pull out details about a specific image, or to highlight the connections between different elements of an image
   
@@ -50,3 +49,12 @@ Use Knightlab Storymaps to create a storymap for a Greek vase. Explore and compa
 ### 11/04
 
 I've decided to focus on storymapping for this project, though I'm definitely interested in doing more 3D scanning/printing work in the future. 
+
+--- 
+
+### ATM Comments 2022.11.11
+
+- This sounds great!
+- If you are testing out Exhibit.so you might try that earlier in case it fits your needs better than storymaps.
+
+---
