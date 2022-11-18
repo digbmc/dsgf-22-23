@@ -10,15 +10,17 @@
 ## Meeting notes
 Note-taker: Kari
 
-DSGF Meeting, 11/4/2022
-I.	Review
-  a.	Check-in on how command line workshop went
-II.	Project Updates
-  a.	Kari: redefining Python goals, looking into mapping for, e.g., distribution of find contexts – StoryMap? GIS? Python applications? Building a new prototype or    finding something preexisting?
-  b.	Mallory: StoryMap program itself is straightforward, but what to do about image sizes? Gigapixels?
-  c.	Alexis: reviewing HTML presentations made for previous class with “clickable” text – translating this into images with “clickable” components; watched a few YouTube tutorials about making image maps
-  d.	Set up appointments with Alice through Calendly!
-III.	Git, GitHub, and Markdown
+### Review
+- Check-in on how command line workshop went
+
+### Project Updates
+
+- Kari: redefining Python goals, looking into mapping for, e.g., distribution of find contexts – StoryMap? GIS? Python applications? Building a new prototype or    finding something preexisting?
+- Mallory: StoryMap program itself is straightforward, but what to do about image sizes? Gigapixels?
+- Alexis: reviewing HTML presentations made for previous class with “clickable” text – translating this into images with “clickable” components; watched a few YouTube tutorials about making image maps
+- Set up appointments with Alice through Calendly!
+
+### Git, GitHub, and Markdown
   a.	Git
     i.	Open-source software for version control
     ii.	Keeps track of file changes and enables them to be labelled & multiple version histories of a project to be preserved
