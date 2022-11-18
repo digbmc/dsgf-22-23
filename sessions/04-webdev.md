@@ -11,27 +11,86 @@
 
 Note-taker: Mallory 
 
-Updates: 
+**Updates:** 
 
-**Alexis**
+Alexis
 
 -Got the bare bones of her HTML file (SVG) functioning! 
+
 -Made with Visual Studio Code 
+
 -Still has to put content in the pages, but clicking on the pages works
+
 -Still trying to figure out how to layer real image over tracing (possible using CSS layout) 
+
 -Been using beginner’s book on HTML 
 
 
-**Kari**
+Kari
 
 -Working with ArcGIS online
+
 -Found a basemap with no borders on it
+
 -Still uploading catalogue 
 
-**Mallory** 
+Mallory 
 
 -Zoomified several image options 
+
 -Other options for mind map screen shot? (deep zoom images don’t usually work very well for those—they’re usually too low resolution) 
+
+
+**HTML**
+
+-Every element in an HTML document has an opening tag and an almost identical ending tag with a forward slash (ex: <p example text</p>)
+
+-Attributes- helpful for grouping or linking elements 
+
+-Self-closing tags- things that don’t have text in them
+
+-Example tags: <html lang=“en” dir=“ltr”>
+  <html – basic opening tag
+        
+  lang=“en” – language is English
+        
+  dir=“ltr” – direction left to right
+        
+  <meta charset=“utf-8”> — metadata; character set, code setting
+  
+  <title></title> — how search engines identify your website
+  
+  <head></head>
+  
+  <body></body> — what’s visible in the body of the webpage
+  
+-Useful HTML elements (resource: HTML Mozilla) 
+
+    Section, div- to break up the structure of your page (not visible) 
+
+    p- paragraph, basic text unit that appears on its own line 
+
+    Img- image, you can’t usually describe in plain text, usually just contains a link to the image file you’re displaying 
+
+    a- anchor, anchor to a link
+
+    h1- top level header (only use those for things that should be in a header because of screen readers) 
+
+    h2- second level header 
+
+    nav- for a navigation menu
+
+    li- list item 
+  
+-Comments- visible when looking at code, but invisible in display of the page
+  
+-Web inspector- Chrome and Firefox right click on a web page and select inspect element 
+
+-You can also view the page source (by right clicking on Firefox) 
+
+-Loading speeds- minimal styles will load faster and are more accessible to people who don’t have broad bands 
+    -An issue with Scalar, Wordpress—the page is being built every time you navigate to it, so it takes a long time 
+    -Lots of Javascript or interactivity takes a long time to load 
 
 
 ### Business
