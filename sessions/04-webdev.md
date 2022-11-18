@@ -34,6 +34,7 @@ Kari
 
 -Still uploading catalogue 
 
+
 Mallory 
 
 -Zoomified several image options 
@@ -50,19 +51,6 @@ Mallory
 -Self-closing tags- things that don’t have text in them
 
 -Example tags: <html lang=“en” dir=“ltr”>
-  <html – basic opening tag
-        
-  lang=“en” – language is English
-        
-  dir=“ltr” – direction left to right
-        
-  <meta charset=“utf-8”> — metadata; character set, code setting
-  
-  <title></title> — how search engines identify your website
-  
-  <head></head>
-  
-  <body></body> — what’s visible in the body of the webpage
   
 -Useful HTML elements (resource: HTML Mozilla) 
 
@@ -92,7 +80,31 @@ Mallory
     -An issue with Scalar, Wordpress—the page is being built every time you navigate to it, so it takes a long time 
     -Lots of Javascript or interactivity takes a long time to load 
 
+**CSS, Cascading Style Sheets** 
+h1 { 
+  
+font-size: 42px; 
+  
+}
+  
+-h1 – selector, specifies where the rule is going to apply 
+  
+-Cascading- you have rules and they often contradict each other; later rules override earlier rules
+  
+-Specificity- more specific selectors override less specific ones 
+  
+-Inheritance- some CSS properties are inherited from parent elements 
+  
+-Box model- every element has a series of boxes around it and you can give specific section (a section is element) sizes via width and height, padding, borders 
+  
+-You can put CSS rules inside HTML, but the better way to do it is in its own file, linked to the HTML 
 
+-href- hypertext reference 
+
+ **Domain of One's Own**
+ 
+-File manager- where you tell it what you want on the web
+  
 ### Business
 
 - Project updates
