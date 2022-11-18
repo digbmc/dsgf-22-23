@@ -9,7 +9,30 @@
 
 ## Meeting notes
 
-Note-taker: Mallory
+Note-taker: Mallory 
+
+Updates: 
+
+**Alexis**
+
+-Got the bare bones of her HTML file (SVG) functioning! 
+-Made with Visual Studio Code 
+-Still has to put content in the pages, but clicking on the pages works
+-Still trying to figure out how to layer real image over tracing (possible using CSS layout) 
+-Been using beginner’s book on HTML 
+
+
+**Kari**
+
+-Working with ArcGIS online
+-Found a basemap with no borders on it
+-Still uploading catalogue 
+
+**Mallory** 
+
+-Zoomified several image options 
+-Other options for mind map screen shot? (deep zoom images don’t usually work very well for those—they’re usually too low resolution) 
+
 
 ### Business
 
