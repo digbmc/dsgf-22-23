@@ -18,10 +18,9 @@ Note-taker: Mallory
 
 ### Web Development
 
+- [activity](../resources/html-instructions.md)
 - [Web Development: HTML & CSS slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/Ebk0Itz2FClIj1Sbk5boNCYBa7Ip2LI8AAozEOYU8XJjFw?e=xixKog)
 - [HTML & CSS tutorial](https://github.com/tri-cods/html-css)
-- [activity](../resources/html-instructions.md)
-
 
 #### HTML & CSS Resources
 - Learning HTML
