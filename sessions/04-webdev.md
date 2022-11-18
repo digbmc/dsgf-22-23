@@ -12,8 +12,9 @@
 Note-taker: Mallory
 
 ### Business
-- Updates & announcements
-- Other business
+
+- Project updates
+- Spring semester: dates for showcase, meeting times?
 
 ### Web Development
 
