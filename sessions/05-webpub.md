@@ -23,7 +23,16 @@ Note-taker: Alice
 - [Slides: Web Design & UX](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EVIK4OweOaZOmmj-PGNxdosBJcSL-1OHs-HZndXufIA-uA?e=vADJUk)
 - [HTML & CSS tutorial](https://github.com/tri-cods/html-css)
 
+### Resources for responsive design
+
+- [HTML 5-up simple templates](https://html5up.net/)
+- [github pages](https://pages.github.com/)
+- [Bootstrap toolkit](https://getbootstrap.com/)
+
+
+
 ## Action items
+
 - [ ] Add your updates by Thursday morning (12/15)
 - [ ] Sketch a wireframe/outline of your professional website
 - [ ] Follow the [HTML & CSS tutorial](https://github.com/tri-cods/html-css) through the end of the CSS section
