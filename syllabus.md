@@ -33,18 +33,20 @@ Note-taker: Kari
 
 Note-taker: Mallory
 
-### 05. [Web design & publishing]
+### 05. [Web design & publishing](sessions/05-webpub.md)
 2021.12.02
 - Web design principles
 - Responsive design frameworks
 - Web accessibility
+
+Note-taker: Alice
 
 ### 06. [Data management]
 2022.12.16
 - Data structures
 - Data cleaning with OpenRefine
 
-Note-taker: Alice
+Note-taker: Alexis
 
 
 ### Deadlines

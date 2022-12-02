@@ -11,7 +11,7 @@
 
 Note-taker: Mallory 
 
-**Updates:** 
+### Updates
 
 Alexis
 
@@ -42,7 +42,7 @@ Mallory
 -Other options for mind map screen shot? (deep zoom images don’t usually work very well for those—they’re usually too low resolution) 
 
 
-**HTML**
+### HTML
 
 -Every element in an HTML document has an opening tag and an almost identical ending tag with a forward slash (ex: <p example text</p>)
 
@@ -80,7 +80,7 @@ Mallory
     -An issue with Scalar, Wordpress—the page is being built every time you navigate to it, so it takes a long time 
     -Lots of Javascript or interactivity takes a long time to load 
 
-**CSS, Cascading Style Sheets** 
+### CSS, Cascading Style Sheets
   
 h1 { 
   
@@ -139,7 +139,7 @@ font-size: 42px;
 - [ ] Optional: read ahead about CSS or review using the resources
 
 
-[<<< Previous](03-git.md) | [Next >>>]()
+[<<< Previous](03-git.md) | [Next >>>](05-webpub.md)
 
 [Return to syllabus](../syllabus.md)
 
