@@ -20,7 +20,7 @@ This repository contains files and information for and by participants in the 20
 
 - [Web Development with HTML & CSS](sessions/04-webdev.md) - November 18, 2022
 
-- 12/2/22
+- [Web Design and Publishing](sessions/05-webpub.md) - December 2, 2022
 
 - 12/16/22
 
