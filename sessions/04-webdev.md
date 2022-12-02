@@ -13,46 +13,46 @@ Note-taker: Mallory
 
 ### Updates
 
-Alexis
+#### Alexis
 
--Got the bare bones of her HTML file (SVG) functioning! 
+- Got the bare bones of her HTML file (SVG) functioning! 
 
--Made with Visual Studio Code 
+- Made with Visual Studio Code 
 
--Still has to put content in the pages, but clicking on the pages works
+- Still has to put content in the pages, but clicking on the pages works
 
--Still trying to figure out how to layer real image over tracing (possible using CSS layout) 
+- Still trying to figure out how to layer real image over tracing (possible using CSS layout) 
 
--Been using beginner’s book on HTML 
-
-
-Kari
-
--Working with ArcGIS online
-
--Found a basemap with no borders on it
-
--Still uploading catalogue 
+- Been using beginner’s book on HTML 
 
 
-Mallory 
+#### Kari
 
--Zoomified several image options 
+- Working with ArcGIS online
 
--Other options for mind map screen shot? (deep zoom images don’t usually work very well for those—they’re usually too low resolution) 
+- Found a basemap with no borders on it
+
+- Still uploading catalogue 
+
+
+#### Mallory 
+
+- Zoomified several image options 
+
+- Other options for mind map screen shot? (deep zoom images don’t usually work very well for those—they’re usually too low resolution) 
 
 
 ### HTML
 
--Every element in an HTML document has an opening tag and an almost identical ending tag with a forward slash (ex: <p example text</p>)
+- Every element in an HTML document has an opening tag and an almost identical ending tag with a forward slash (ex: `<p example text</p>`)
 
--Attributes- helpful for grouping or linking elements 
+- Attributes- helpful for grouping or linking elements 
 
--Self-closing tags- things that don’t have text in them
+- Self-closing tags- things that don’t have text in them
 
--Example tags: <html lang=“en” dir=“ltr”>
+- Example tags: `<html lang=“en” dir=“ltr”>`
   
--Useful HTML elements (resource: HTML Mozilla) 
+- Useful HTML elements (resource: HTML Mozilla) 
 
     Section, div- to break up the structure of your page (not visible) 
 
@@ -70,41 +70,41 @@ Mallory
 
     li- list item 
   
--Comments- visible when looking at code, but invisible in display of the page
+- Comments- visible when looking at code, but invisible in display of the page
   
--Web inspector- Chrome and Firefox right click on a web page and select inspect element 
+- Web inspector- Chrome and Firefox right click on a web page and select inspect element 
 
--You can also view the page source (by right clicking on Firefox) 
+- You can also view the page source (by right clicking on Firefox) 
 
--Loading speeds- minimal styles will load faster and are more accessible to people who don’t have broad bands 
-    -An issue with Scalar, Wordpress—the page is being built every time you navigate to it, so it takes a long time 
-    -Lots of Javascript or interactivity takes a long time to load 
+- Loading speeds- minimal styles will load faster and are more accessible to people who don’t have broad bands 
+    - An issue with Scalar, Wordpress—the page is being built every time you navigate to it, so it takes a long time 
+    - Lots of Javascript or interactivity takes a long time to load 
 
 ### CSS, Cascading Style Sheets
-  
-h1 { 
-  
-font-size: 42px; 
-  
-}
-  
--h1 – selector, specifies where the rule is going to apply 
-  
--Cascading- you have rules and they often contradict each other; later rules override earlier rules
-  
--Specificity- more specific selectors override less specific ones 
-  
--Inheritance- some CSS properties are inherited from parent elements 
-  
--Box model- every element has a series of boxes around it and you can give specific section (a section is element) sizes via width and height, padding, borders 
-  
--You can put CSS rules inside HTML, but the better way to do it is in its own file, linked to the HTML 
 
--href- hypertext reference 
+```{css}
+h1 { 
+  font-size: 42px; 
+  }
+```
+  
+- h1 – selector, specifies where the rule is going to apply 
+  
+- Cascading- you have rules and they often contradict each other; later rules override earlier rules
+  
+- Specificity- more specific selectors override less specific ones 
+  
+- Inheritance- some CSS properties are inherited from parent elements 
+  
+- Box model- every element has a series of boxes around it and you can give specific section (a section is element) sizes via width and height, padding, borders 
+  
+- You can put CSS rules inside HTML, but the better way to do it is in its own file, linked to the HTML 
+
+- href- hypertext reference 
 
  **Domain of One's Own**
  
--File manager- where you tell it what you want on the web
+- File manager- where you tell it what you want on the web
   
 ### Business
 
