@@ -41,10 +41,10 @@ Note-taker: Mallory
 
 Note-taker: Alice
 
-### 06. [Data management]
+### 06. [Juncture]
 2022.12.16
-- Data structures
-- Data cleaning with OpenRefine
+- Linked Open Data
+- Juncture
 
 Note-taker: Alexis
 
@@ -59,6 +59,12 @@ Note-taker: Alexis
 
 Dates TBD
 
+### 07. [Data management]
+
+- Data structures
+- Data cleaning with OpenRefine
+
+Note-taker: Alexis
 
 ### Mapping & GIS
 - Understanding GIS data
