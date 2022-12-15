@@ -49,7 +49,7 @@ Note-taker: Alice
 - [ ] Continue adding to your simple website: follow the instructions [here](../resources/html-instructions.md)
 - [ ] Deploy your site using Domain of One's Own & post the link to Slack
 
-[<<< Previous](04-webdev.md) | [Next >>>]()
+[<<< Previous](04-webdev.md) | [Next >>>](06-juncture.md)
 
 [Return to syllabus](../syllabus.md)
 

@@ -44,6 +44,7 @@ Note-taker: Alice
 ### 06. [Juncture]
 2022.12.16
 - Linked Open Data
+- IIIF
 - Juncture
 
 Note-taker: Alexis

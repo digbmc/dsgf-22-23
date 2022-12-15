@@ -4,9 +4,9 @@ This repository contains files and information for and by participants in the 20
 
 ## Contents
 
-[Syllabus](/syllabus.md)
+[Syllabus](syllabus.md)
 
-[Expectations](/expectations.md)
+[Expectations](expectations.md)
 
 
 
@@ -22,6 +22,6 @@ This repository contains files and information for and by participants in the 20
 
 - [Web Design and Publishing](sessions/05-webpub.md) - December 2, 2022
 
-- 12/16/22
+- [Linked Data & Juncture](sessions/06-juncture.md) - December 16, 2022
 
 - Spring sessions TBD
