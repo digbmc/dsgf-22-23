@@ -4,9 +4,9 @@ This repository contains files and information for and by participants in the 20
 
 ## Contents
 
-[Syllabus](/syllabus.md)
+[Syllabus](syllabus.md)
 
-[Expectations](/expectations.md)
+[Expectations](expectations.md)
 
 
 
