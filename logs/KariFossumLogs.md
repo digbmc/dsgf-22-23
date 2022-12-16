@@ -35,3 +35,12 @@
 - working on revising my SMART Goal! I am still trying to develop a clearer idea for how to use Python for archaeology, both in general terms and for my own specific research; this week, this looks like refreshing my Python skills using online tutorials and "researching" how other scholars have incorporated Python into their research in archaeology, classics, and art history
 - constructing a new SMART Goal, namely, to use StoryMaps and/or GIS to make an interactive map of the findspots of the objects in the dataset that I'm building for my thesis; I'm currently playing around with StoryMaps and reading about GIS and approaches to geospatial data 
 ## Other Updates:
+
+## **12/16 Log**
+
+## **Accomplishments:**
+- found suitable base maps (i.e., without modern political borders!) for my coin distribution maps and mapped all of my currend findspots, currently finisihing up inputting the data that will also go in my thesis catalogue (e.g., coin types, quantities, deposition contexts)
+
+## **Updates(/Plans):**
+- interested in seeing if there is a way to use GIS to calculate ancient travel time (à la https://orbis.stanford.edu/) between my sites/findspots
+- still planning to dedicating some time over break to planning & starting a Python project!
