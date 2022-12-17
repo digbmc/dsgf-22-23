@@ -41,7 +41,7 @@ Note-taker: Mallory
 
 Note-taker: Alice
 
-### 06. [Juncture]
+### 06. [Juncture](sessions/06-juncture.md)
 2022.12.16
 - Linked Open Data
 - IIIF
@@ -58,25 +58,32 @@ Note-taker: Alexis
 
 ## Spring 2023
 
-Dates TBD
+Meeting time: Wednesdays 10:00 AM - 11:30 AM
 
 ### 07. [Data management]
+2023.01.18
 
 - Data structures
 - Data cleaning with OpenRefine
 
-Note-taker: Alexis
+Note-taker: Kari
 
 ### Mapping & GIS
 - Understanding GIS data
 - Tools and resources for web mapping
 
+Note-taker: Mallory
+
 ### Critical Making
 - Makerspace tour & workshop
+
+Note-taker: Alice
 
 ### Project management
 - Project proposals & charters
 - Time management tools
+
+Note-taker: Alexis
 
 ### Digital pedagogy
 - Teaching digital competencies
@@ -102,4 +109,3 @@ Note-taker: Alexis
 - Digital preservation
 - Static websites
 - Environmental impact of web
-
