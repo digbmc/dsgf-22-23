@@ -60,7 +60,8 @@ Note-taker: Alexis
 
 Meeting time: Wednesdays 10:00 AM - 11:30 AM
 
-### 07. [Data management]
+### 07. [Data management](sessions/07-data.md)
+
 2023.01.18
 
 - Data structures

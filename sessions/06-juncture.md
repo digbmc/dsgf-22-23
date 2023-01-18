@@ -64,7 +64,7 @@ Note-taker: Alexis
 - [ ] Add your updates by January 15
 - [ ] Other
 
-[<<< Previous](05-webpub.md) | [Next >>>]()
+[<<< Previous](05-webpub.md) | [Next >>>](07-data.md)
 
 [Return to syllabus](../syllabus.md)
 

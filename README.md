@@ -24,4 +24,6 @@ This repository contains files and information for and by participants in the 20
 
 - [Linked Data & Juncture](sessions/06-juncture.md) - December 16, 2022
 
+- [Data Management](sessions/07-data.md) - January 18, 2023
+
 - Spring sessions TBD

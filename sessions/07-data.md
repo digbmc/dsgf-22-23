@@ -21,7 +21,7 @@ Note-taker: Kari
 - [ ] Add your updates by Monday morning
 - [ ] Other
 
-[<<< Previous]() | [Next >>>]()
+[<<< Previous](06-juncture.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 
