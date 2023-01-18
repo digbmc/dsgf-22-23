@@ -15,7 +15,7 @@ Note-taker: Kari
 - Other business
 
 ### Data
-
+- [Open Refine workshop](https://github.com/tri-cods/tidy-data)
 
 ## Action items
 - [ ] Add your updates by Monday morning
