@@ -25,7 +25,7 @@ Note-taker: Mallory
 - [ ] Topic/title for showcase
 - [ ] Other
 
-[<<< Previous](07-data) | [Next >>>]()
+[<<< Previous](07-data.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 

@@ -57,7 +57,7 @@ Note-taker: Kari
 - [ ] Add your updates by Monday morning
 - [ ] Other
 
-[<<< Previous](06-juncture.md) | [Next >>>]()
+[<<< Previous](06-juncture.md) | [Next >>>](08-map.md)
 
 [Return to syllabus](../syllabus.md)
 

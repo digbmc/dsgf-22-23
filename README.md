@@ -26,4 +26,7 @@ This repository contains files and information for and by participants in the 20
 
 - [Data Management](sessions/07-data.md) - January 18, 2023
 
+- [Mapping & GIS](sessions/08-map.md) - February 1, 2023
+
+
 - Spring sessions TBD
