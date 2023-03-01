@@ -28,5 +28,6 @@ This repository contains files and information for and by participants in the 20
 
 - [Mapping & GIS](sessions/08-map.md) - February 1, 2023
 
+- [Mapping & GIS pt. II](sessions/09-mapgis.md) - March 1, 2023
 
 - Spring sessions TBD
