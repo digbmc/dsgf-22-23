@@ -64,7 +64,7 @@ Note-taker: Mallory
 - [ ] Topic/title for showcase
 - [ ] Other
 
-[<<< Previous](07-data.md) | [Next >>>]()
+[<<< Previous](07-data.md) | [Next >>>](09-mapgis.md)
 
 [Return to syllabus](../syllabus.md)
 
