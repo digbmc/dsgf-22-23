@@ -41,7 +41,7 @@ Note-taker: Mallory
     - How do you represent what’s not there? 
     - How have Western conceptions of space, boundaries, etc. shaped our understanding of what a map is? (colonialism, imperialism) 
     - Murky origins of datasets (US military technologies, fossil fuels, etc.) 
-- Vector vs. Roster data
+- Vector vs. Raster data
     - Vector- data is defined by directionality, scalable, so you can zoom in and out (lines, boundaries, shapes on a map) 
       - Shape files- shapes, directional lines, geographic coordinates they represent
     - Roster- data is defined by size/color, made out of pixels, so if you try to blow it up the image just gets fuzzy

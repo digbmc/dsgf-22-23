@@ -8,14 +8,15 @@
 3. Blog posts etc.
 
 ## Meeting notes
-Note-taker: Name
+Note-taker: Alice
 
 ### Business
 - Updates & announcements
-- Other business
+- Showcase de-brief & blog posts
 
 ### Instruction topic
 - [DHRI Introduction to Mapping](https://curriculum.dhinstitutes.org/workshops/mapping/)
+- 2/1/23 Left off at [5. Making an Interactive Map: Introduction](https://curriculum.dhinstitutes.org/workshops/mapping/lessons/?page=5)
 
 ## Action items
 - [ ] Add your updates by Monday morning

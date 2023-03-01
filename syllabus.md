@@ -69,16 +69,30 @@ Meeting time: Wednesdays 10:00 AM - 11:30 AM
 
 Note-taker: Kari
 
-### Mapping & GIS
+### 08. [Mapping & GIS](sessions/08-map.md)
+
+2023.02.01 
+
 - Understanding GIS data
 - Tools and resources for web mapping
 
 Note-taker: Mallory
 
+### 09. [Mapping & GIS Part II](sessions/09-mapgis.md)
+
+2023.03.01
+
+- QGIS basics & spatial joins
+
+Note-taker: Alice
+
+
+## Spring TBD
+
 ### Critical Making
 - Makerspace tour & workshop
 
-Note-taker: Alice
+
 
 ### Project management
 - Project proposals & charters
