@@ -86,19 +86,42 @@ Note-taker: Mallory
 
 Note-taker: Alice
 
+### 10. Maybe: Professional Online Identity for Scholars
 
-## Spring TBD
+2023.03.15
 
-### Critical Making
+Note-taker: Alexis
+
+### 11. [Critical Making]
+
+2023.03.29
+
 - Makerspace tour & workshop
 
+Note-taker: Kari
 
+### 12.
+
+2023.04.12
+
+Note-taker: Mallory
+
+### 13. 
+
+2023.04.26
+
+Note-taker: Alice
+
+### 14. Wrap-up & Celebration
+
+2023.05.10 
+
+
+---
 
 ### Project management
 - Project proposals & charters
 - Time management tools
-
-Note-taker: Alexis
 
 ### Digital pedagogy
 - Teaching digital competencies
