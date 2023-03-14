@@ -30,4 +30,6 @@ This repository contains files and information for and by participants in the 20
 
 - [Mapping & GIS pt. II](sessions/09-mapgis.md) - March 1, 2023
 
-- Spring sessions TBD
+- [Professional Websites](sessions/10-profesh.md) - March 15, 2023
+
+

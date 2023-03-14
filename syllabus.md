@@ -86,7 +86,7 @@ Note-taker: Mallory
 
 Note-taker: Alice
 
-### 10. Maybe: Professional Online Identity for Scholars
+### 10. [Professional Websites & Online Identity](sessions/10-profesh.md)
 
 2023.03.15
 
@@ -94,7 +94,7 @@ Note-taker: Alexis
 
 ### 11. [Critical Making]
 
-2023.03.29
+2023.04.05
 
 - Makerspace tour & workshop
 

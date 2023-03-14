@@ -47,7 +47,7 @@ Note-taker: Alice
 - [ ] Add your updates by Monday morning
 - [ ] Other
 
-[<<< Previous](08-map.md) | [Next >>>]()
+[<<< Previous](08-map.md) | [Next >>>](10-profesh)
 
 [Return to syllabus](../syllabus.md)
 
