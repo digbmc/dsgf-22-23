@@ -32,4 +32,6 @@ This repository contains files and information for and by participants in the 20
 
 - [Professional Websites](sessions/10-profesh.md) - March 15, 2023
 
+- [Critical Making](sessions/11-making.md)
 
+- [Digital Pedagogy](sessions/12-digiped.md)

@@ -92,7 +92,7 @@ Note-taker: Alice
 
 Note-taker: Alexis
 
-### 11. [Critical Making]
+### 11. [Critical Making](sessions/11-making.md)
 
 2023.04.05
 
@@ -100,7 +100,7 @@ Note-taker: Alexis
 
 Note-taker: Kari
 
-### 12.
+### 12. [Digital Pedagogy](sessions/12-digiped.md)
 
 2023.04.12
 
