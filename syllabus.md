@@ -104,6 +104,8 @@ Note-taker: Kari
 
 2023.04.12
 
+- Introduction to Digital Pedagogy - Jeff Hopkins
+
 Note-taker: Mallory
 
 ### 13. 
