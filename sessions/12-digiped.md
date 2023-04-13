@@ -47,7 +47,7 @@ Source: Jisc [Applying the SAMR model to aid your digital transformation](https:
 ## Action items
 
 
-[<<< Previous]() | [Next >>>]()
+[<<< Previous](11-making.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 

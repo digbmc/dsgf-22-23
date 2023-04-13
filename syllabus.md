@@ -88,6 +88,9 @@ Note-taker: Alice
 
 ### 10. [Professional Websites & Online Identity](sessions/10-profesh.md)
 
+- Web design basics
+- Professional online identity
+
 2023.03.15
 
 Note-taker: Alexis
@@ -96,15 +99,18 @@ Note-taker: Alexis
 
 2023.04.05
 
-- Makerspace tour & workshop
+- Makerspace tour
+- Einstein tiles: screen-printing from vector images
 
 Note-taker: Kari
 
-### 12. [Digital Pedagogy](sessions/12-digiped.md)
+### 12. [Digital Pedagogy](sessions/12-digiped.md) - Jeff Hopkins
 
 2023.04.12
 
-- Introduction to Digital Pedagogy - Jeff Hopkins
+- Introduction to Digital Pedagogy
+- Frameworks for integrating technology into teaching
+- Designing digital assignments
 
 Note-taker: Mallory
 
@@ -124,10 +130,6 @@ Note-taker: Alice
 ### Project management
 - Project proposals & charters
 - Time management tools
-
-### Digital pedagogy
-- Teaching digital competencies
-- Digital assignments
 
 ### Digital exhibits
 - Digital collections & metadata

@@ -1,5 +1,5 @@
-# 00. Title
-Date
+# 11. Critical Making
+2023.04.06
 
 ## Agenda
 1. Updates and announcements
@@ -20,7 +20,7 @@ Note-taker: Name
 - [ ] Add your updates by Monday morning
 - [ ] Other
 
-[<<< Previous]() | [Next >>>]()
+[<<< Previous](10-profesh.md) | [Next >>>](12-digiped.md)
 
 [Return to syllabus](../syllabus.md)
 

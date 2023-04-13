@@ -28,7 +28,7 @@ Note-taker: Alexis
 - [ ] Share a draft of your site by next week 3/22
 - [ ] Updates
 
-[<<< Previous](09-mapgis) | [Next >>>]()
+[<<< Previous](09-mapgis) | [Next >>>](10-profesh)
 
 [Return to syllabus](../syllabus.md)
 
