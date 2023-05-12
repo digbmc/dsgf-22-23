@@ -114,26 +114,25 @@ Note-taker: Kari
 
 Note-taker: Mallory
 
-### 13. 
+### 13. Digital Exhibits
 
 2023.04.26
 
+- Digital collections & metadata
+- Exhibit tools (Scalar, Omeka, etc.)
+
 Note-taker: Alice
 
-### 14. Wrap-up & Celebration
+### 14. [Project Management](sessions/14-proj-mgmt.md)
 
-2023.05.10 
+2023.05.12
+
+Note-taker: Alexis
+- Project management strategies
+- Project charters
 
 
 ---
-
-### Project management
-- Project proposals & charters
-- Time management tools
-
-### Digital exhibits
-- Digital collections & metadata
-- Exhibit tools (Scalar, Omeka, etc.)
 
 ### Data visualization
 - Design & data storytelling
