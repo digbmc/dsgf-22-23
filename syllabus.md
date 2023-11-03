@@ -127,10 +127,10 @@ Note-taker: Alice
 
 2023.05.12
 
-Note-taker: Alexis
 - Project management strategies
 - Project charters
 
+Note-taker: Alexis
 
 ---
 
