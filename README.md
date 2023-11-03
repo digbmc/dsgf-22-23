@@ -4,6 +4,8 @@ This repository contains files and information for and by participants in the 20
 
 ## Contents
 
+[Program 2023-2024](2023-2024.md)
+
 [Syllabus](syllabus.md)
 
 [Expectations](expectations.md)
