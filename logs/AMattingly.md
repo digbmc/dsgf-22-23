@@ -3,6 +3,10 @@ Aiden Mattingly
 DSGF Log 2021-2022
 
 ## Updates
+2023.12.24: fixed checker
+2023.12.24: created separate project repository, invited Alice.
+
+## Updates
 Continued working my way through command line and git tutorials
 busy with exams, some applications
 
@@ -19,6 +23,12 @@ Action plan (including timeline and steps):
 by end of exams: finish checker
 by 12/29: implement underlying decliner logic
 by 1/5: implement output/'cleanup' logic
+
+Long Term: become familiar with language processing of ancient languages
+Goals by end of break:
+create a complete action plan by 12/29
+go through resources available on CLTK, become familiar with how it's organized
+begin working with regular expressions
 
 ---
 
