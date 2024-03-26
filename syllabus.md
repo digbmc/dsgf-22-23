@@ -95,7 +95,7 @@ Note-taker: Alice
 
 Note-taker: Alexis
 
-### 11. [Critical Making](sessions/11-making.md)
+### 11. [Critical Making](sessions/11-making.md) - Bronwen Densmore
 
 2023.04.05
 
@@ -114,7 +114,7 @@ Note-taker: Kari
 
 Note-taker: Mallory
 
-### 13. Digital Exhibits
+### 13. [Digital Exhibits](sessions/13-exhibitions.md)
 
 2023.04.26
 
